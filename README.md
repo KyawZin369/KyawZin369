@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyaw Zin Thet</h1>
-<h3 align="center">A passionate FullStack Developer from Myanmar</h3>
+<img align="right" height="150" src="https://global.discourse-cdn.com/standard10/uploads/gazebo/original/1X/75c75853585098ba19e32b3252de56c3878c0725.gif"  />
+<h3 align="center">I'm a passionate FullStack Developer from Myanmar</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -13,11 +14,7 @@
 <a href="https://discord.gg/https://discord.gg/5jpNQCCY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5jpNQCCY" height="30" width="40" /></a>
 </p>
 
-###
-
-<img align="right" height="150" src="https://global.discourse-cdn.com/standard10/uploads/gazebo/original/1X/75c75853585098ba19e32b3252de56c3878c0725.gif"  />
-
-###
+<hr/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -58,4 +55,12 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+<hr/>
+
+<h1 align="center">My Status</h1>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kyawzin369&theme=dark&border_radius=5" alt="GitHub Streak" /></a>
+
+![Kyaw Zin Thet's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyawzin369&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyawzin369&layout=pie)](https://github.com/kyawzin369/github-readme-stats)
