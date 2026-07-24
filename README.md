@@ -61,21 +61,19 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 Most Used Languages & Streak
 
 <div align="center">
+  <!-- Most Used Languages Chart -->
+  <a href="https://github.com/kyawzin369">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawzin369&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+  
+  <br /><br />
+
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/kyawzin369">
     <img src="https://streak-stats.demolab.com?user=kyawzin369&theme=radical&border_radius=5" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- GitHub Activity Graph -->
-  <a href="https://github.com/kyawzin369">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyawzin369&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
   </a>
 </div>
 
