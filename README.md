@@ -64,9 +64,9 @@
 ### 📊 Most Used Languages & Streak
 
 <div align="center">
-  <!-- Most Used Languages Chart -->
+  <!-- Most Used Languages (Reliable Mirror API) -->
   <a href="https://github.com/kyawzin369">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawzin369&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyawzin369&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
   
   <br /><br />
