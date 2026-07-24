@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer from Myanmar 🇲🇲</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Developer;Building+Web+Apps+with+MERN+Stack;Exploring+Modern+Tech+Stacks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Developer;Building+Web+Apps+with+MERN+Stack;Exploring+Modern+Tech+Stacks" alt="Typing SVG" />
 </p>
 
 <img align="right" height="180" src="https://global.discourse-cdn.com/standard10/uploads/gazebo/original/1X/75c75853585098ba19e32b3252de56c3878c0725.gif" alt="Coding GIF" />
@@ -61,26 +61,21 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kyawzin369&theme=radical&margin-w=15&column=4" alt="GitHub Trophies" />
-</p>
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
+  <!-- GitHub Streak Stats -->
   <a href="https://github.com/kyawzin369">
-    <img src="https://github-readme-stats.vercel.app/api?username=kyawzin369&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/kyawzin369">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawzin369&layout=compact&theme=radical&hide_border=false" height="165" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com?user=kyawzin369&theme=radical&border_radius=5" alt="GitHub Streak" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kyawzin369&theme=radical&border_radius=5" alt="GitHub Streak" />
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/kyawzin369">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyawzin369&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
   </a>
 </div>
 
